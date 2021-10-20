@@ -7,5 +7,5 @@ Contact:
    
 about me: 
 * i live in Córdoba - Argentina when study computer science in FAMAF - UNC
-* in this moment i am serching an specialization, i have interests in concurrency or data science
+* in this moment i am serching an specialization, i have interests in concurrency or big data
 
